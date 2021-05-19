@@ -1,6 +1,6 @@
-# Hi there 👋
+# Welcome on my profile 👋
 
-## 📧 dudzmiko@gmail.com
+### 📧 dudzmiko@gmail.com
 <!--
 **dudzmiko/dudzmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
