@@ -1,4 +1,4 @@
-## Hi, I'm Mikołaj 👋
+# Hi, I'm Mikołaj 👋
 ## 👨‍💻 About me
 
 I'm 18 years old, programming and electronics enthusiast.
