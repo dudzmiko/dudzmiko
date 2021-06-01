@@ -1,5 +1,5 @@
 ## Hi, I'm Mikołaj 👋
-## 🙍 About me
+## 🧑‍💻 About me
 
 I'm 18 years old, programming and electronics enthusiast.
 
