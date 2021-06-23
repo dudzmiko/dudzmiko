@@ -14,6 +14,7 @@ I'm 18 years old, programming and electronics enthusiast.
 
 ### ⚡ Microcontrollers
 I'm also programming MCU's Atmega and Attiny series.
+
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![STM](https://img.shields.io/badge/-STM-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
