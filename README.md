@@ -12,10 +12,12 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/dudzmiko/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
 ### ⚡ Microcontrollers
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![STM](https://img.shields.io/badge/-STM-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
+### ⚙️ Other technologies
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 <!--
