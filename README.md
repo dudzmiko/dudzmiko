@@ -13,6 +13,8 @@ I'm 18 years old, programming and electronics enthusiast.
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
+[![Arduino](https://img.shields.io/badge/-Arduino-#00979D?style=flat-square&logo=arduino&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 <!--
