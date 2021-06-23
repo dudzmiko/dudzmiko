@@ -13,7 +13,7 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/dudzmiko/)
 
 ### ⚡ Microcontrollers
-**Most often I program MCU's from AVR and STM families.**
+<!--**Most often I program MCU's from AVR and STM families.**-->
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![STM](https://img.shields.io/badge/-STM-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
