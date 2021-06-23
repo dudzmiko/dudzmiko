@@ -20,7 +20,7 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 ## 💻 Platforms
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 <!--
 **dudzmiko/dudzmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
