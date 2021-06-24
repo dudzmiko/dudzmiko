@@ -20,7 +20,7 @@ I'm 18 years old, programming and electronics enthusiast.
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 ### ⚙️ Other technologies
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 ## 💻 Platforms
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
