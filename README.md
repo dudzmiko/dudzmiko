@@ -16,7 +16,6 @@ I'm 18 years old, programming and electronics enthusiast.
 
 #### 📕 Learning
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 ### ⚡ Microcontrollers
 <!--**Most often I program MCU's from AVR and STM families.**-->
