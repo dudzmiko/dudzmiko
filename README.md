@@ -12,7 +12,10 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 ### ⚙️ Other technologies
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/dudzmiko/)
+[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/dudzmiko/)
+[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/dudzmiko/)
+[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/dudzmiko/)
 
 <!--
 #### 📕 Learning
