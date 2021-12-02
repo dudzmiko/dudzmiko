@@ -13,12 +13,11 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-
+<!--
 #### 📕 Learning
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 ### ⚡ Microcontrollers
-<!--**Most often I program MCU's from AVR and STM families.**-->
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![STM](https://img.shields.io/badge/-STM-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
@@ -31,6 +30,8 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
+-->
 <!--
 **dudzmiko/dudzmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
