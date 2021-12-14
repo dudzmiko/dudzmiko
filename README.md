@@ -1,4 +1,4 @@
-# Hi, I'm Mikołaj 👋
+# Hi, I'm Mikołaj <img src="https://raw.githubusercontent.com/sasiking/sasiking/main/wave.gif" width="30px">
 ## 👨‍💻 About me
 
 I'm 18 years old, programming and electronics enthusiast.
