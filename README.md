@@ -3,7 +3,7 @@
 
 I'm 18 years old, programming and electronics enthusiast.
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Contact with me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com)
 
 ## 🔧 Technologies
 ### 🌐 Web
