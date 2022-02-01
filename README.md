@@ -9,7 +9,7 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
 
-## 🔧 Technologies
+## 🔧 Technologies stack
 ### 🌐 Web
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
