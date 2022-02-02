@@ -27,6 +27,7 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/dudzmiko/)
+[![CISCO](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://github.com/dudzmiko/)
 
 <!-- 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/dudzmiko/)
