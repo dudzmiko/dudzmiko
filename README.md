@@ -9,22 +9,30 @@ I'm 18 years old, programming and electronics enthusiast.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
 
-## 🔧 Technologies stack
-### 🌐 Web
+## ⚙️ My technologies stack
+<!-- ### 🌐 Web -->
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-### ⚙️ Other technologies
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
+[![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
+
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/dudzmiko/)
+
+<!-- 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/dudzmiko/)
-[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/dudzmiko/)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/dudzmiko/)
+[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/dudzmiko/) -->
 
 <!--
 #### 📕 Learning
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
 ### ⚡ Microcontrollers
 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
