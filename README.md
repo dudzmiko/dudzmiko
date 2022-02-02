@@ -15,6 +15,7 @@ I'm 18 years old, programming and electronics enthusiast.
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-round&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-round&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-round&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
