@@ -20,6 +20,7 @@ I'm 18 years old, programming and electronics enthusiast.
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
