@@ -3,9 +3,10 @@
 ## 👨‍💻 About me
 
 I'm 18 years old, programming and electronics enthusiast.
-<!-- 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Contact with me:
---> 
+I am currently working as a freelancer and still learning new things.
+
+:mailbox: **Contact me:**
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
 
