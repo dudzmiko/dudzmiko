@@ -7,8 +7,15 @@ I am currently working as a freelancer and still learning new things.
 
 :mailbox: **Contact me:**
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
+
+:necktie: **My social media:**
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-round&logo=Facebook&logoColor=white&link=https:/https://facebook.com/dudzmiko/)](https://facebook.com/dudzmiko/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https:/https://instagram.com/dudzmiko/)](https://instagram.com/dudzmiko/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-round&logo=Twitter&logoColor=white&link=https:/https://twitter.com/dudzmiko/)](https://twitter.com/dudzmiko/)
+
 
 ## ⚙️ My technologies stack
 <!-- ### 🌐 Web -->
