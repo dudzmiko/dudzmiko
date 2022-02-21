@@ -15,6 +15,7 @@ I am currently working as a freelancer and still learning new things.
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-round&logo=Facebook&logoColor=white&link=https:/https://facebook.com/dudzmiko/)](https://facebook.com/dudzmiko/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https:/https://instagram.com/dudzmiko/)](https://instagram.com/dudzmiko/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-round&logo=Twitter&logoColor=white&link=https:/https://twitter.com/dudzmiko/)](https://twitter.com/dudzmiko/)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-round&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)](https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)
 
 
 ## ⚙️ My technologies stack
