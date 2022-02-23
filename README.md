@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mikołaj <img src="https://raw.githubusercontent.com/sasiking/sasiking/main/wave.gif" width="30px"></h1>
 
-## 👨‍💻 About me
+<h2>👨‍💻 About me</h2>
 
 I'm 18 years old, programming and electronics enthusiast.
 I am currently working as a freelancer and still learning new things.
@@ -18,7 +18,8 @@ I am currently working as a freelancer and still learning new things.
 [![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-round&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)](https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)
 
 
-## ⚙️ My technologies stack
+<h2>⚙️ My technologies stack</h2>
+
 <!-- ### 🌐 Web -->
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
