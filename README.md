@@ -39,7 +39,10 @@ I am currently working as a freelancer and still learning new things.
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-round&logo=git&logoColor=white)](https://github.com/dudzmiko/)
+[![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-round&logo=adobe&logoColor=white)](https://github.com/dudzmiko/)
 [![CISCO](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-round&logo=cisco&logoColor=white)](https://github.com/dudzmiko/)
+
+
 
 <!-- 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-round&logo=Eslint&logoColor=white)](https://github.com/dudzmiko/)
