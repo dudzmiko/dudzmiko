@@ -29,10 +29,11 @@ I am currently working as a freelancer and still learning new things.
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-round&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-round&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-round&logo=cplusplus&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-round&logo=python&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-round&logo=qt&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-[![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-round&logo=qt&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-round&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
