@@ -17,10 +17,10 @@ I am currently working as a freelancer and still learning new things.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-round&logo=Twitter&logoColor=white&link=https:/https://twitter.com/dudzmiko/)](https://twitter.com/dudzmiko/)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat-round&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)](https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)
 
+<!-- <h2>🔨 My currently works</h2> -->
 
 <h2>⚙️ My technologies stack</h2>
 
-<!-- ### 🌐 Web -->
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-round&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
