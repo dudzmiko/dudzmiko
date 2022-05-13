@@ -35,6 +35,8 @@ I am currently working as a freelancer and still learning new things.
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-round&logo=postgresql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-round&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
 
