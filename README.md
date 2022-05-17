@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Mikołaj <img src="https://raw.githubusercontent.com/sasiking/sasiking/main/wave.gif" width="30px"></h1>
 
 <h2>👨‍💻 About me</h2>
@@ -35,16 +36,19 @@ I am currently working as a freelancer and still learning new things.
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-round&logo=mysql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-round&logo=postgresql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-round&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-round&logo=git&logoColor=white)](https://github.com/dudzmiko/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-round&logo=linux&logoColor=white)](https://github.com/dudzmiko/)
 [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-round&logo=adobe&logoColor=white)](https://github.com/dudzmiko/)
 [![CISCO](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-round&logo=cisco&logoColor=white)](https://github.com/dudzmiko/)
+[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](https://github.com/dudzmiko/)
 
-
+<!-- --- -->
 
 <!-- 
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-round&logo=Eslint&logoColor=white)](https://github.com/dudzmiko/)
