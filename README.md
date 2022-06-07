@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mikołaj <img src="https://raw.githubusercontent.com/sasiking/sasiking/main/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Mikołaj <img src="https://raw.githubusercontent.com/sasiking/sasiking/main/wave.gif" width="30px" height="30px"></h1>
 
 <h2>👨‍💻 About me</h2>
 
