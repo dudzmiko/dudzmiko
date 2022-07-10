@@ -3,8 +3,11 @@
 
 <h2>👨‍💻 About me</h2>
 
-I'm 18 years old, programming and electronics enthusiast.
-I am currently working as a freelancer and still learning new things.
+I'm 19 years old, programming and electronics enthusiast.
+
+My work currently involves R&D of software responsible for real-time image processing. In my spare time I am a web developer.
+
+The words that describe me are a young, ambitious programmer-fanatic who is constantly learning new things.
 
 :mailbox: **Contact me:**
 
@@ -22,19 +25,19 @@ I am currently working as a freelancer and still learning new things.
 
 <h2>⚙️ My technologies stack</h2>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-round&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-round&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-round&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-round&logo=cplusplus&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-round&logo=python&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-round&logo=qt&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-round&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+
+<!-- [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-round&logo=react&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-round&logo=styled-components&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/) -->
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-round&logo=mysql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-round&logo=postgresql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
@@ -74,6 +77,11 @@ I am currently working as a freelancer and still learning new things.
 -->
 <!--
 **dudzmiko/dudzmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 >
+  <img src="https://user-images.githubusercontent.com/58874363/178153155-b98759b2-dc85-4d11-99d8-e3a076ea0505.png" width="100px" height="100px">
+  <img src="https://user-images.githubusercontent.com/58874363/178153060-b14d3b21-5635-445f-a685-0d0e5ecae6e5.png" width="100px" height="100px">
+</h3>
 
 Here are some ideas to get you started:
 
