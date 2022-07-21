@@ -3,11 +3,11 @@
 
 <h2>👨‍💻 About me</h2>
 
-I'm 19 years old, programming and electronics enthusiast.
+I am 19 years old, passionate about programming and electronics.
 
-My work currently involves R&D of software responsible for real-time image processing. In my spare time I am a web developer.
+Currently, my work consists of R&D of software responsible for real-time image processing. In my spare time, I do web development and learn how to develop mobile applications.
 
-The words that describe me are a young, ambitious programmer-fanatic who is constantly learning new things.
+The words that describe me are young, ambitious programmer-fanatic who is constantly learning new things.
 
 :mailbox: **Contact me:**
 
@@ -45,11 +45,18 @@ The words that describe me are a young, ambitious programmer-fanatic who is cons
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-round&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
 
+[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](https://github.com/dudzmiko/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-round&logo=discord&logoColor=white)](https://github.com/dudzmiko/)
+[![Meet](https://img.shields.io/badge/-Meet-00897B?style=flat-round&logo=googlemeet&logoColor=white)](https://github.com/dudzmiko/)
+[![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-round&logo=microsoftteams&logoColor=white)](https://github.com/dudzmiko/)
+[![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-round&logo=zoom&logoColor=white)](https://github.com/dudzmiko/)
+
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-round&logo=git&logoColor=white)](https://github.com/dudzmiko/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-round&logo=linux&logoColor=white)](https://github.com/dudzmiko/)
 [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-round&logo=adobe&logoColor=white)](https://github.com/dudzmiko/)
 [![CISCO](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-round&logo=cisco&logoColor=white)](https://github.com/dudzmiko/)
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](https://github.com/dudzmiko/)
+[![Logitech](https://img.shields.io/badge/-Logitech-00B8FC?style=flat-round&logo=logitech&logoColor=white)](https://github.com/dudzmiko/)
+[![Apple](https://img.shields.io/badge/-Apple-000000?style=flat-round&logo=apple&logoColor=white)](https://github.com/dudzmiko/)
 
 <!-- --- -->
 
