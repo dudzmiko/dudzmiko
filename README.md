@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi, I'm Mikołaj <img src="https://raw.githubusercontent.com/sasiking/sasiking/main/wave.gif" width="30px" height="30px"></h1>
+<h1 align="center">Hi, I'm Mikołaj <img valign="middle"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="32" height="32"  /></h1>
 
-<h2>👨‍💻 About me</h2>
+<h2><img valign="bottom" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="32" height="32" /> About me</h2>
 
 I am 19 years old, passionate about programming and electronics.
 
@@ -9,12 +9,12 @@ Currently, my work consists of R&D of software responsible for real-time image p
 
 The words that describe me are young, ambitious programmer-fanatic who is constantly learning new things.
 
-:mailbox: **Contact me:**
+<img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="32" height="32" /> **Contact me:**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
 
-:necktie: **My social media:**
+<img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Necktie.png" alt="Necktie" width="32" height="32" /> **My social media:**
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-round&logo=Facebook&logoColor=white&link=https:/https://facebook.com/dudzmiko/)](https://facebook.com/dudzmiko/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https:/https://instagram.com/dudzmiko/)](https://instagram.com/dudzmiko/)
@@ -23,7 +23,7 @@ The words that describe me are young, ambitious programmer-fanatic who is consta
 
 <!-- <h2>🔨 My currently works</h2> -->
 
-<h2>⚙️ My technologies stack</h2>
+<h2><img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="32" height="32" /> My technologies stack</h2>
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-round&logo=cplusplus&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-round&logo=python&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
