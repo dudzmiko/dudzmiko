@@ -42,6 +42,7 @@ The words that describe me are young, ambitious programmer-fanatic who is consta
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-round&logo=mysql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-round&logo=postgresql&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-round&logo=phpmyadmin&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-round&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
