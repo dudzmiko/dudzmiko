@@ -28,8 +28,9 @@ The words that describe me are young, ambitious programmer-fanatic who is consta
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-round&logo=cplusplus&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-round&logo=python&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-round&logo=qt&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-round&logo=opencv&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-round&logo=yolo&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-round&logo=css3&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
