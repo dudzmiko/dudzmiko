@@ -5,7 +5,10 @@
 
 I am 19 years old, passionate about programming and electronics.
 
-Currently, my work consists of R&D of software responsible for real-time image processing. In my spare time, I do web development and learn how to develop mobile applications.
+Currently, my work consists of R&D of software responsible for real-time image processing.
+Previously, I created and developed web applications responsible for remote management of fire and alarm systems.
+
+In my spare time, I do web development and learn how to develop mobile applications.
 
 The words that describe me are young, ambitious programmer-fanatic who is constantly learning new things.
 
