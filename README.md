@@ -49,6 +49,7 @@ The words that describe me are young, ambitious programmer-fanatic who is consta
 [![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-round&logo=phpmyadmin&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 
 [![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-round&logo=adobe-photoshop&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
+[![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-round&logo=adobe-illustrator&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-round&logo=Figma&logoColor=white)](https://github.com/dudzmiko/)
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-round&logo=git&logoColor=white)](https://github.com/dudzmiko/)
