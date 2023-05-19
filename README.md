@@ -64,9 +64,9 @@ The words that describe me are young, ambitious programmer-fanatic who is consta
 
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge-round&logo=slack&logoColor=white)](https://github.com/dudzmiko/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge-round&logo=discord&logoColor=white)](https://github.com/dudzmiko/)
-[![Meet](https://img.shields.io/badge/-Meet-00897B?style=for-the-badge-round&logo=googlemeet&logoColor=white)](https://github.com/dudzmiko/)
 [![Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge-round&logo=microsoftteams&logoColor=white)](https://github.com/dudzmiko/)
-[![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge-round&logo=zoom&logoColor=white)](https://github.com/dudzmiko/)
+<!-- [![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge-round&logo=zoom&logoColor=white)](https://github.com/dudzmiko/) -->
+<!-- [![Meet](https://img.shields.io/badge/-Meet-00897B?style=for-the-badge-round&logo=googlemeet&logoColor=white)](https://github.com/dudzmiko/) -->
 
 [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge-round&logo=adobe&logoColor=white)](https://github.com/dudzmiko/)
 [![CISCO](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge-round&logo=cisco&logoColor=white)](https://github.com/dudzmiko/)
