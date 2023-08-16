@@ -3,7 +3,7 @@
 
 <h2><img valign="bottom" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="32" height="32" /> About me</h2>
 
-I am 19 years old, passionate about programming and electronics.
+I am 20 years old, passionate about programming and electronics.
 
 Currently, my work consists of R&D of software responsible for real-time image processing.
 Previously, I created and developed web applications responsible for remote management of fire and alarm systems.
@@ -42,6 +42,7 @@ The words that describe me are young, ambitious programmer-fanatic who is consta
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge-round&logo=javascript&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge-round&logo=tailwindcss&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge-round&logo=Sass&logoColor=white)](https://github.com/dudzmiko/)
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge-round&logo=Vue.js&logoColor=white)](https://github.com/dudzmiko/)
 
 <!-- [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge-round&logo=php&logoColor=white&link=https://github.com/dudzmiko/)](https://github.com/dudzmiko/) -->
 
