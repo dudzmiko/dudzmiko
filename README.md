@@ -3,14 +3,14 @@
 
 <h2><img valign="bottom" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="32" height="32" /> About me</h2>
 
-I am 20 years old, passionate about programming and electronics.
+I am 20 years old, passionate about programming and electronics :electron:
 
-Currently, my work consists of R&D of software responsible for real-time image processing.
-Previously, I created and developed web applications responsible for remote management of fire and alarm systems.
-
-In my spare time, I do web development and learn how to develop mobile applications.
-
-The words that describe me are young, ambitious programmer-fanatic who is constantly learning new things.
+<div>Currently I am working on the development of artificial intelligence and OCR models 👁️</div>
+<div>Also I am a full stack developer with Django and Vue 🐍</div>
+<br>
+<div>In my spare time I read business and history books 📗 and listen to interesting science podcasts 🎧</div>
+<div>The words that describe me are young, ambitious programmer-fanatic who is constantly learning new things 😄</div>
+<br>
 
 <img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="32" height="32" /> **Contact me:**
 
