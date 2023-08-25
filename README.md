@@ -3,7 +3,7 @@
 
 <h2><img valign="bottom" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="32" height="32" /> About me</h2>
 
-I am 20 years old, passionate about programming and electronics :electron:
+I am 20 years old, passionate about programming and electronics 💡
 
 <div>Currently I am working on the development of artificial intelligence and OCR models 👁️</div>
 <div>Also I am a full stack developer with Django and Vue 🐍</div>
