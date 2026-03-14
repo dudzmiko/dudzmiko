@@ -3,27 +3,28 @@
 
 <h2><img valign="bottom" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="32" height="32" /> About me</h2>
 
-I am 20 years old, passionate about programming and electronics 💡
+<!--I am 20 years old, passionate about programming and electronics 💡-->
 
 <div>Currently I am working on the development of artificial intelligence and OCR models 👁️</div>
 <div>Also I am a full stack developer with Django and Vue 🐍</div>
 <br>
+<!--
 <div>In my spare time I read business and history books 📗 and listen to interesting science podcasts 🎧</div>
 <div>The words that describe me are young, ambitious programmer-fanatic who is constantly learning new things 😄</div>
-<br>
+<br>-->
 
 <img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="32" height="32" /> **Contact me:**
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge-round&logo=Gmail&logoColor=white&link=mailto:dudzmiko@gmail.com)](mailto:dudzmiko@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudzmiko/)](https://www.linkedin.com/in/dudzmiko/)
-
+<!--
 <img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Necktie.png" alt="Necktie" width="32" height="32" /> **My social media:**
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge-round&logo=Facebook&logoColor=white&link=https:/https://facebook.com/dudzmiko/)](https://facebook.com/dudzmiko/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge-round&logo=Instagram&logoColor=white&link=https:/https://instagram.com/dudzmiko/)](https://instagram.com/dudzmiko/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge-round&logo=Twitter&logoColor=white&link=https:/https://twitter.com/dudzmiko/)](https://twitter.com/dudzmiko/)
 [![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=for-the-badge-round&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)](https://www.snapchat.com/add/mikolaj_dudzik?share_id=tgmjFIixwsg&locale=pl-PL)
-
+-->
 <!-- <h2>🔨 My currently works</h2> -->
 
 <h2><img valign="bottom"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="32" height="32" /> My technologies stack</h2>
